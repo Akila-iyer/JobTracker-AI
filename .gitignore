@@ -43,3 +43,6 @@ Thumbs.db
 
 # Command Code
 .commandcode
+
+# Vite cache
+.vite
