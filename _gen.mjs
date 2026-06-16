@@ -1,0 +1,1 @@
+import{writeFileSync as w}from"fs";w("PRD.md","# Job Tracker AI");
